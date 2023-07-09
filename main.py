@@ -6,8 +6,8 @@ from selenium.common.exceptions import NoSuchElementException
 
 PROMISED_DOWN = 100
 PROMISED_UP = 10
-TWITTER_EMAIL = "m-416369@moe-dl.edu.my"
-TWITTER_PASSWORD = "biochemphy100%"
+TWITTER_EMAIL = "Your_email"
+TWITTER_PASSWORD = "Your_password"
 CHROME_DRIVER_PATH = "C:/Users/horyu/Development/chromedriver.exe"
 
 class InternetspeedTwitterBot:
